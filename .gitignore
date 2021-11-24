@@ -1,5 +1,5 @@
 api_keys.py
-*.csv
+staging/*.csv
 *.xlsx
 *.pyc
 .ipynb_checkpoints/*
